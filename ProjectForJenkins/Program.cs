@@ -10,7 +10,7 @@ namespace ProjectForJenkins
     {
         public void Display()
         {
-            Console.WriteLine( "Welcome to Jenkins");
+            Console.WriteLine( "Welcome to Jenkins")
         }
         static void Main(string[] args)
         {
